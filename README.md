@@ -1,8 +1,12 @@
 # windows-workstation setup
 
-## Window store apps
-- terminal
-- power toys
+## Windows store apps
+- Terminal
+- Power Toys
 - TransclusentTB
+- QuickLook
+
+## Powershell profile
 
 ## Windows terminal setup
+https://ohmyposh.dev/docs
