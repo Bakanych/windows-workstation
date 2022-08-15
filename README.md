@@ -10,7 +10,7 @@
 https://ohmyposh.dev/docs/installation/fonts
 
 ## Powershell profile
-./Microsoft.PowerShell_profile.ps1
+see [$PROFILE](Microsoft.PowerShell_profile.ps1) file
 
 ## Windows terminal setup
 https://ohmyposh.dev/docs
